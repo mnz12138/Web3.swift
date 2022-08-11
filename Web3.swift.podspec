@@ -13,6 +13,6 @@ Pod::Spec.new do |spec|
 
     spec.dependency 'BigInt', '~> 5.0.0'
     spec.dependency 'CryptoSwift', '~> 1.0.0'
-    spec.dependency 'secp256k1.swift', :git => 'https://github.com/Boilertalk/secp256k1.swift.git', :branch => 'master'
+    spec.dependency 'secp256k1.swift', '~> 0.1.4'
     spec.dependency 'PromiseKit', '~> 6.0.0'
 end
