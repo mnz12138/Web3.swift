@@ -1,4 +1,4 @@
-Pod::Spec.new do |s|
+Pod::Spec.new do |spec|
     spec.name         = 'Web3'
     spec.version      = '0.5.3'
     spec.ios.deployment_target = "10.0"
